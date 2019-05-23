@@ -10,7 +10,7 @@
 
 [WUHAN.996](https://github.com/openive/WUHAN.996): WUHAN.996 是指“武汉工作模式为 996” 。武汉迅速发展的环境下，为本土大学生和求职者提供参考，跟ICU说拜拜。
 
-[WUHAN.995](https://github.com/openive/WUHAN.995): WUHAN.996 的反向 repo，旨在让更多在武汉工作的人逃离 996，加入 955 的行列 ，跟996说拜拜。
+[WUHAN.955](https://github.com/openive/WUHAN.955): WUHAN.996 的反向 repo，旨在让更多在武汉工作的人逃离 996，加入 955 的行列 ，跟996说拜拜。
 
 [WUHAN.1155](https://github.com/openive/WUHAN.1155): 武汉工作 11-5-5，生活为先。
 
